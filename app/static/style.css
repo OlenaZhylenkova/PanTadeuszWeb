@@ -1,0 +1,30 @@
+li{
+    list-style-type: none;
+    color: black;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.nav-link{
+    color:black;
+}
+
+.blockquote-footer{
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.blockquote{
+    margin-top: 20px;
+    font-size: 55px;
+}
+
+.text{
+    margin-left: 20px;
+}
